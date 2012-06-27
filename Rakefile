@@ -4,7 +4,7 @@ require 'fileutils'
 
 Hoe.plugin :newgem
 
-$hoe = Hoe.spec 'nnm_event_summarizer' do
+$hoe = Hoe.spec 'nnm_interval_summarizer' do
   developer 'Kenichi Kamiya', 'kachick1+ruby@gmail.com'
   self.rubyforge_name       = name
   require_ruby_version '>= 1.9.3'
