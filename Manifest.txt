@@ -1,0 +1,11 @@
+README.rdoc
+COPYING
+Manifest.txt
+Rakefile
+History.txt
+lib/networknodemanager/xnmsnmpconf.rb
+lib/networknodemanager/xnmsnmpconf/entry.rb
+lib/networknodemanager/xnmsnmpconf/parser.rb
+lib/nnm_interval_summarizer.rb
+bin/nnm_interval_summarizer
+dspec/parse.rb

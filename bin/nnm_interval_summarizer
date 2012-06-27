@@ -1,0 +1,6 @@
+#!/usr/local/bin/ruby -w
+# Copyright (C) 2011-2012 Kenichi Kamiya
+
+require_relative '../lib/nnm_interval_summarizer'
+
+NNM_Interval_Summarizer.run

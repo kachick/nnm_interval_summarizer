@@ -1,0 +1,42 @@
+= nnm_interval_summarizer
+
+code :: https://github.com/kachick/nnm_interval_summarizer
+bugs :: https://github.com/kachick/nnm_interval_summarizer/issues
+gem  :: https://rubygems.org/gems/nnm_interval_summarizer
+
+== Description
+
+An utility for the NNM(NetworkNodeManager).
+"ovsnmp.conf(xnmsnmpconf -export)" to some CSV files.
+
+== Feutures
+
+* Author is just a user of NNM, Of course "No Warranty" :)
+
+== Usage
+
+    > nnm_interval_summarizer ovsnmp.conf [*ovsnmp.conf]
+
+== Requirements
+
+* Ruby 1.9.3
+  
+  Focusing
+  
+  * 1.9.3-p194
+
+* striuct - 0.3.0
+* time-unit - 0.0.7
+* lettercase - 0.0.2
+
+== Installation
+
+* gem install nnm_interval_summarizer
+
+== License
+
+GPL 3.0
+
+Copyright (c) 2011-2012 Kenichi Kamiya
+
+See the file COPYING for further details.
