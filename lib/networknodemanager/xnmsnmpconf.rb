@@ -2,7 +2,7 @@
 
 module NetworkNodeManager
 
-	class Xnmsnmpconf
+  class Xnmsnmpconf
     
     class << self
     
@@ -30,7 +30,7 @@ module NetworkNodeManager
       @entries = entries
     end
   
-	end
+  end
 
 end
 

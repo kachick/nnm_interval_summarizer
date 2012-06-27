@@ -3,11 +3,11 @@
 require 'time/unit'
 
 module NetworkNodeManager; class Xnmsnmpconf
-	
+  
   class Parser
   
-		class MalformedSourceError < RuntimeError
-		end
+    class MalformedSourceError < RuntimeError
+    end
 
     SEPARATOR = ':'.freeze
     WILDCARD = '*'.freeze
@@ -86,5 +86,5 @@ module NetworkNodeManager; class Xnmsnmpconf
     end
   
   end
-	
+  
 end; end
