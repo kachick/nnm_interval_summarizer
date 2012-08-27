@@ -4,10 +4,9 @@ require 'csv'
 require 'lettercase'
 require 'lettercase/ext'
 require_relative 'networknodemanager/xnmsnmpconf'
+require_relative 'nnm_interval_summarizer/version'
 
 module NNM_Interval_Summarizer
-
-  VERSION = '0.0.1'.freeze
 
   include NetworkNodeManager
 

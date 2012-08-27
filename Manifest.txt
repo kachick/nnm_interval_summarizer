@@ -1,11 +1,13 @@
-README.rdoc
+README.md
 COPYING
 Manifest.txt
-Rakefile
 History.txt
+Rakefile
+Gemfile
+nnm_interval_summarizer.gemspec
 lib/networknodemanager/xnmsnmpconf.rb
 lib/networknodemanager/xnmsnmpconf/entry.rb
 lib/networknodemanager/xnmsnmpconf/parser.rb
 lib/nnm_interval_summarizer.rb
 bin/nnm_interval_summarizer
-dspec/parse.rb
+test/test_parse.rb
