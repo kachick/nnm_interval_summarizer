@@ -1,6 +1,5 @@
-$VERSION = true
-
 require 'test/declare'
+$VERBOSE = true
 require_relative '../lib/networknodemanager/xnmsnmpconf'
 
 sample =<<EOD
