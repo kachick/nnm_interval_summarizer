@@ -1,7 +1,9 @@
 NNM Interval Summarizer
 ========================
 
-[![Build Status](https://secure.travis-ci.org/kachick/nnm_interval_summarizer.png)](http://travis-ci.org/kachick/nnm_interval_summarizer)
+* ***This repository is archived***
+* ***No longer maintained***
+* ***All versions have been yanked from https://rubygems.org/ for releasing valuable namespace for others***
 
 Description
 -----------
@@ -9,7 +11,7 @@ Description
 An utility for the NNM(NetworkNodeManager).
 Summarize Status Polling intervals.
 
-!Notice!
+!Notice
 --------
 
 * Author is just a user of NNM, Of course "No Warranty" :)
@@ -38,22 +40,6 @@ Requirements
 * striuct - 0.3.0
 * time-unit - 0.0.7
 * lettercase - 0.0.2
-
-Install
--------
-
-```shell
-$ gem install nnm_interval_summarizer
-```
-
-Link
-----
-
-* [code](https://github.com/kachick/nnm_interval_summarizer)
-* [issues](https://github.com/kachick/nnm_interval_summarizer/issues)
-* [CI](http://travis-ci.org/#!/kachick/nnm_interval_summarizer)
-* [gem](https://rubygems.org/gems/nnm_interval_summarizer)
-* [gem+](http://metagem.info/gems/nnm_interval_summarizer)
 
 License
 -------
